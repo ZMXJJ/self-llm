@@ -129,6 +129,10 @@
   - [x] [DeepSeek-R1-Distill-Qwen-7B WebDemo 部署](./models/DeepSeek-R1-Distill-Qwen/03-DeepSeek-R1-Distill-Qwen-7B%20WebDemo%20部署.md) @骆秀韬
   - [x] [DeepSeek-R1-Distill-Qwen-7B vLLM 部署调用](./models/DeepSeek-R1-Distill-Qwen/04-DeepSeek-R1-Distill-Qwen-7B%20vLLM%20部署调用.md) @骆秀韬
 
+- [MiniCPM4](https://github.com/OpenBMB/MiniCPM)
+  - [x] [MiniCPM4 部署教程](./models/MiniCPM4/01-MiniCPM4-部署教程.md) @OpenBMB
+  - [x] [MiniCPM4 微调及通过SwanLab可视化](./models/MiniCPM4/MiniCPM4微调教程.md) @OpenBMB
+
 - [MiniCPM-o-2_6](https://github.com/OpenBMB/MiniCPM-o)
   - [x] [minicpm-o-2.6 FastApi 部署调用](./models/MiniCPM-o/01MiniCPM-o%202%206%20FastApi部署调用%20.md) @林恒宇
   - [x] [minicpm-o-2.6 WebDemo 部署](./models/MiniCPM-o/02minicpm-o-2.6WebDemo_streamlit.py) @程宏
